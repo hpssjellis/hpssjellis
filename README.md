@@ -28,6 +28,23 @@ My TinyML examples site is [here](https://github.com/hpssjellis/my-examples-for-
 
 
 
+## About Me
+
+
+## Social Media
+
+
+## Favorite Repositories
+
+
+## Favorite Videos/Playlists
+
+
+## Other 
+
+###### By Jeremy Ellis Use at your own risk!
+
+
 
 
 <!--
