@@ -1,4 +1,12 @@
-### Jeremy Ellis Rocksetta
+### Jeremy Ellis, Rocksetta
+
+#### I simplify Robotics and Machine Learning
+
+Presenlty working on improving my 7 year 
+
+
+
+
 
 
 <!--
