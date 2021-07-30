@@ -8,7 +8,7 @@
 ## Maker100
 Presenlty working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering program and is planned to be ready for Jan 2022.
 
-The coure introduces all the hands on basics of robotics sensors and actuators, with simplified [Edge Impulse](https://www.edgeimpulse.com/) introductions all based around the new Arduino Pro boards: Portenta, Portenta Vision shields, Portenta Breakout Board. The course uses my ever changing offical Arduino IDE Library of examples [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
+The coure introduces all the hands on basics of robotics sensors and actuators, with a simplified [Edge Impulse](https://www.edgeimpulse.com/) Machine Learning introduction all based around the new Arduino Pro boards: Portenta, Portenta Vision shields, Portenta Breakout Board. The course uses my ever changing offical Arduino IDE Library of examples [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
 
 
 ## Maker101
