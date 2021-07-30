@@ -1,3 +1,5 @@
+<body bgcolor=blue>
+
 ### Jeremy Ellis, Rocksetta
 
 #### I simplify Robotics and Machine Learning
@@ -23,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
+  
+  </body>
