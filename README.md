@@ -13,13 +13,13 @@ The coure introduces all the hands on basics of robotics sensors and actuators, 
 
 ## Maker101
 
-In researching the above Robotics Machine Learning Maker 100 program, I designed a simplified way to use TensorflowJS and TensorflowLite/micro with the Arduino boards. It is too complex for my High School students but would work well for a web based and Arduino introduction to GoogleAI
+In researching the above Robotics Machine Learning Maker 100 program, I designed a simplified way to use TensorflowJS and TensorflowLite/micro with the Arduino boards. It is too complex for my High School students but would work well for a web based Javascript and Arduino C++ introduction to GoogleAI
 
-I would be willing to work with a few University Professors on a Paid Google program to develop a TensorflowJS and TensorFlowMicro course for an introductory TinyML and Machine Learning course.
+I would be willing to work over the duration of a few years with a University Professor on a paid Google program to develop a TensorflowJS and TensorFlowMicro course as a University introduction to TinyML, Tensorflow and Machine Learning. Using my working code, adapted with the Professors ideas and theory. Potentially my hands on videos, with the Professors theory videos. 
 
 My TensorflowJS site is [www.rocksetta.com/tensorflowjs](https://www.rocksetta.com/tensorflowjs/) Note: everything is vanila Javascript as easy as possible. Examples are clear, Keras based and simple for students to build from.
 
-best easy example is this [xOr example](https://www.rocksetta.com/tensorflowjs/beginner-keras/20keras-xOr.html)
+My best easiest example is this [xOr example](https://www.rocksetta.com/tensorflowjs/beginner-keras/20keras-xOr.html)
 
 My TinyML examples site is [here](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow) although an easier example is on the above library.
 
