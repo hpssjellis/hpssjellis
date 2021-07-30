@@ -7,7 +7,9 @@
 Presenlty working on improving my 7 year 
 
 
-
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
 
 
 
