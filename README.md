@@ -1,4 +1,4 @@
-<body bgcolor=blue>
+
 
 ### Jeremy Ellis, Rocksetta
 
@@ -7,7 +7,7 @@
 Presenlty working on improving my 7 year 
 
 
-<div class="text-white bg-blue mb-2">
+<div style="text:red; backgroundColor:blue">
   .text-white on .bg-blue
 </div>
 
