@@ -4,6 +4,8 @@
 
 #### I simplify Robotics and Machine Learning
 
+I am a technology teacher from BC, Canada.
+
 
 ## [Maker100](https://github.com/hpssjellis/maker100)
 Presently working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering University program and is planned to be ready for Jan 2022.
@@ -150,9 +152,9 @@ https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5r
 
 ## Other 
 
-I get migraines but am wading through the Snake Oil and will eventually be able to reduce it from about 1 every 3 weeks, to a much lower number.
+I get migraines but am wading through the Snake Oil and will eventually be able to reduce it from about 1 every 3 weeks, to a much lower number. Getting used to multiple migraines the first week of school. My migraine repositiroy is [pre-migraine](https://github.com/hpssjellis/pre-migraine)
 
-My arms both dislocate, but I find the less I play rugby or Kayak the less it is a problem.
+Both my arms dislocate, but I find that the less I play: rugby, kayak, rockclimb, volleyball, pillow fight the less it is a problem.
 
 
 ###### By Jeremy Ellis. Use at your own risk!
