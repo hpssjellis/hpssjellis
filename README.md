@@ -61,15 +61,27 @@ Looking into how I can support capable Indigenous students to have access to Mac
 
 Website:  https://rocksetta.com/
 
-Twitter:  https://twitter.com/rocksetta?lang=en
-
 Github: This page!  https://github.com/hpssjellis
 
-Instagram: [jerteach](https://github.com/hpssjellis/hpssjellis/blob/main/media/Screenshot_20210730-175840_Instagram.jpg)
-<br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 400 style="opacity: .99; z-index:5; position:relative;  left:0; top:0;"/>
+Twitter: [Rocksetta on Twitter](https://twitter.com/rocksetta?lang=en)
+<br><img src="media/Rocksetta-twitter-qr.jpg" width = 400 />
 
-TikTok (new)   [rocksetta](https://github.com/hpssjellis/hpssjellis/blob/main/media/Screenshot_20210730-191212_TikTok.jpg)
-<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400 style=" opacity: .99; z-index:3; position:relative;  left:-200; top:-150;" />
+or
+
+<br><img src="media/Rocksetta_Twitter.jpg" width = 400 />
+
+
+
+
+Instagram: [jerteach on Instagram]()
+<br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 400 />
+
+TikTok (new)   [rocksetta on TikTok](https://vm.tiktok.com/ZMdcCYcrD/)
+<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400 " />
+  
+or 
+  
+<br><img src="media/Tiktok-qr.jpg" width = 400 " />
 
 
 
