@@ -11,6 +11,11 @@ Presenlty working on improving my 7 year student tested Arduino Clone Robotics c
 The course introduces all the hands on basics of robotics; sensors and actuators, with a simplified [Edge Impulse](https://www.edgeimpulse.com/) Machine Learning introduction all based around the (in my opinion) best all round microcontroller the new Arduino Pro boards: ~$100 USD [PortentaH7](https://store.arduino.cc/usa/portenta-h7), ~$50 USD Portenta Vision shields ([Ethernet](https://store.arduino.cc/usa/portenta-vision-shield) and [LoRaWan](https://store.arduino.cc/usa/portenta-vision-shield-lora)), ~$50 USD [Portenta Breakout Board](https://store.arduino.cc/usa/portenta-breakout). The course uses my ever changing offical Arduino IDE Library of examples [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
 
 
+<br><img src="media/PortentaVision01.jpg" width = 400/>
+
+
+
+
 ## [Maker101](https://github.com/hpssjellis/maker101)
 
 In researching the above Robotics Machine Learning Maker 100 program, I designed a simplified way to use TensorflowJS and TensorflowLite/micro with the Arduino boards. It is too complex for my High School students but would work well for a web based Javascript and Arduino C++ introduction to GoogleAI
