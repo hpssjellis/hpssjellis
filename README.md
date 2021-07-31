@@ -6,9 +6,9 @@
 
 
 ## [Maker100](https://github.com/hpssjellis/maker100)
-Presenlty working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering University program and is planned to be ready for Jan 2022.
+Presently working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering University program and is planned to be ready for Jan 2022.
 
-The course introduces all the hands on basics of robotics; sensors and actuators, with a simplified [Edge Impulse](https://www.edgeimpulse.com/) Machine Learning introduction all based around the (in my opinion) best all round microcontroller the new Arduino Pro boards: ~$100 USD [PortentaH7](https://store.arduino.cc/usa/portenta-h7) the easy to program dual core 160 pin cybertruck of an Arduino, ~$50 USD Portenta Vision shields ([Ethernet](https://store.arduino.cc/usa/portenta-vision-shield) and [LoRaWan](https://store.arduino.cc/usa/portenta-vision-shield-lora)), ~$50 USD [Portenta Breakout Board](https://store.arduino.cc/usa/portenta-breakout). The course uses my ever changing offical Arduino IDE Library of examples [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
+The course introduces all the hands on basics of robotics; sensors and actuators, with a simplified [Edge Impulse](https://www.edgeimpulse.com/) Machine Learning introduction all based around the (in my opinion) best all round microcontroller the new Arduino Pro boards: ~$100 USD [PortentaH7](https://store.arduino.cc/usa/portenta-h7) the easy to program dual core 160 pin cybertruck of an Arduino, ~$50 USD Portenta Vision shields ([Ethernet](https://store.arduino.cc/usa/portenta-vision-shield) and [LoRaWan](https://store.arduino.cc/usa/portenta-vision-shield-lora)), ~$50 USD [Portenta Breakout Board](https://store.arduino.cc/usa/portenta-breakout). The course uses my ever-changing offical Arduino IDE Library of examples [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
 
 
 ### Showing the Dual Core, 160 Pin, PortentaH7 on a breadboard upside down so the snap on Ethernet Vision Shield, Camera and Microphones are facing up, but still with easy access to the SD card and control button, visible is the Wifi and BLE antenae.
@@ -43,7 +43,7 @@ Name: Jeremy Ellis
 Pronouns: he/him
 
 
-Education: B.Sc. Chemistry 1986, B.Ed Swecondary School and a Diploma Counselling.  
+Education: B. Sc. Chemistry 1986, B. vEd Swecondary School and a Diploma Counseling.  
 
 Teaching: Have taught High School Math, General Science and Physics 11/12  
 
@@ -138,7 +138,7 @@ https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5r
 
 I get migraines but am wading through the Snake Oil and will eventually be able to reduce it from about 1 every 3 weeks, to a much lower number.
 
-My arms both dislocate, but I find the less I play rugby or Kayack the less it is a problem.
+My arms both dislocate, but I find the less I play rugby or Kayak the less it is a problem.
 
 
 ###### By Jeremy Ellis. Use at your own risk!
