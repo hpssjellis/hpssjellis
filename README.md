@@ -3,14 +3,13 @@
 ### Jeremy Ellis, Rocksetta
 
 
-<img src="media/20210731_142537.jpg" width = 400/>
+<img src="media/20210731_142149.jpg" width = 400/>
 
 #### I simplify Robotics and Machine Learning
 
 I am a technology teacher from BC, Canada.
 
 
-<img src="media/20210731_142149.jpg" width = 400/>
 
 ## [Maker100](https://github.com/hpssjellis/maker100)
 Presently working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering University program and is planned to be ready for Jan 2022.
@@ -25,6 +24,7 @@ Needs extra male and female headers to do this.
 
 
 
+<img src="media/20210731_142537.jpg" width = 400/>
 
 ## [Maker101](https://github.com/hpssjellis/maker101)
 
