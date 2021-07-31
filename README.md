@@ -69,19 +69,19 @@ TikTok (new) ![rocksetta](media/Screenshot_20210730-191212_TikTok.jpg)
 
 ## Favorite Videos/Playlists
 
-# My Youtube Playlists
+#### My Youtube list of Playlists
 
 https://www.youtube.com/c/Rocksetta/playlists
 
 
 
-Edge Impulse
+#### Edge Impulse
 
 https://www.youtube.com/playlist?list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR
 
 
 
-Arduino Portenta H7 playlist by Rocksetta
+#### Arduino Portenta H7 playlist by Rocksetta
 
 
 
@@ -90,34 +90,34 @@ https://www.youtube.com/playlist?list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw
 
 
 
-Helium HNT The Peoples Network
+#### Helium HNT The Peoples Network
 
 
 https://www.youtube.com/playlist?list=PL57Dnr1H_egu0PkIBAbbdfQ21O_NJqJg8
 
-Arduino High School Robotics
+####  Arduino High School Robotics
 
 https://www.youtube.com/playlist?list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05
 
 
-Particle High School Robotics
+####  Particle High School Robotics
 https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr
 
 
-My TensorflowJS Videos
+#### My TensorflowJS Videos
 https://www.youtube.com/watch?v=dnDb-RAvxHg&list=PL57Dnr1H_egukaDgFqwEnDVStd7Jktg1E
 
 
-Social Distancing
+#### Social Distancing
 https://www.youtube.com/watch?v=jquWGWDEVb4&list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
 
 
-Music Keyfree
+#### Key Free Music
 https://www.youtube.com/watch?v=qbmX1FDpbEM&list=PL57Dnr1H_egttPxXEgCf7Fn-Vh5OFHh1z
 
 
 
-PhoneGap Javascript (OLD)
+#### PhoneGap Javascript (OLD)
 https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5rCKK
 
 
@@ -125,6 +125,9 @@ https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5r
 
 ## Other 
 
+I get migraines but am wading through the Snake Oil and will eventually be able to reduce it from about 1 every 3 weeks, to a much lower number.
+
+My arms both dislocate, but I find the less I play rugby or Kayack the less it is a problem.
 
 
 ###### By Jeremy Ellis. Use at your own risk!
