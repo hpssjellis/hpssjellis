@@ -6,7 +6,7 @@
 
 
 ## Maker100
-Presenlty working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering program and is planned to be ready for Jan 2022.
+Presenlty working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering University program and is planned to be ready for Jan 2022.
 
 The course introduces all the hands on basics of robotics; sensors and actuators, with a simplified [Edge Impulse](https://www.edgeimpulse.com/) Machine Learning introduction all based around the (in my opinion) best all round microcontroller the new Arduino Pro boards: ~$100 USD [PortentaH7](https://store.arduino.cc/usa/portenta-h7), ~$50 USD Portenta Vision shields ([Ethernet](https://store.arduino.cc/usa/portenta-vision-shield) and [LoRaWan](https://store.arduino.cc/usa/portenta-vision-shield-lora)), ~$50 USD [Portenta Breakout Board](https://store.arduino.cc/usa/portenta-breakout). The course uses my ever changing offical Arduino IDE Library of examples [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
 
@@ -57,15 +57,70 @@ Twitter:  https://twitter.com/rocksetta?lang=en
 
 Github: This page!  https://github.com/hpssjellis
 
-Instagram: ![jerteach](Screenshot_20210730-175840_Instagram.jpg)
+Instagram: ![jerteach](media/Screenshot_20210730-175840_Instagram.jpg)
 
-TikTok (new) ![rocksetta](Screenshot_20210730-191212_TikTok.jpg)
+TikTok (new) ![rocksetta](media/Screenshot_20210730-191212_TikTok.jpg)
 
 
 ## Favorite Repositories
 
 
+
+
 ## Favorite Videos/Playlists
+
+# My Youtube Playlists
+
+https://www.youtube.com/c/Rocksetta/playlists
+
+
+
+Edge Impulse
+
+https://www.youtube.com/playlist?list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR
+
+
+
+Arduino Portenta H7 playlist by Rocksetta
+
+
+
+https://www.youtube.com/playlist?list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw
+
+
+
+
+Helium HNT The Peoples Network
+
+
+https://www.youtube.com/playlist?list=PL57Dnr1H_egu0PkIBAbbdfQ21O_NJqJg8
+
+Arduino High School Robotics
+
+https://www.youtube.com/playlist?list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05
+
+
+Particle High School Robotics
+https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr
+
+
+My TensorflowJS Videos
+https://www.youtube.com/watch?v=dnDb-RAvxHg&list=PL57Dnr1H_egukaDgFqwEnDVStd7Jktg1E
+
+
+Social Distancing
+https://www.youtube.com/watch?v=jquWGWDEVb4&list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
+
+
+Music Keyfree
+https://www.youtube.com/watch?v=qbmX1FDpbEM&list=PL57Dnr1H_egttPxXEgCf7Fn-Vh5OFHh1z
+
+
+
+PhoneGap Javascript (OLD)
+https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5rCKK
+
+
 
 
 ## Other 
