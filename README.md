@@ -76,12 +76,14 @@ or
 Instagram: [jerteach on Instagram]()
 <br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 400 />
 
-TikTok (new)   [rocksetta on TikTok](https://vm.tiktok.com/ZMdcCYcrD/)
-<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400 " />
+
+
+TikTok (new)   [Rocksetta on TikTok](https://vm.tiktok.com/ZMdcCYcrD/)
+<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400 />
   
 or 
   
-<br><img src="media/Tiktok-qr.jpg" width = 400 " />
+<br><img src="media/Tiktok-qr.jpg" width = 400 />
 
 
 
