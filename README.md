@@ -66,10 +66,10 @@ Twitter:  https://twitter.com/rocksetta?lang=en
 Github: This page!  https://github.com/hpssjellis
 
 Instagram: [jerteach](https://github.com/hpssjellis/hpssjellis/blob/main/media/Screenshot_20210730-175840_Instagram.jpg)
-<br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 400/>
+<br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 400 style="z-index:5; position:absolute;  left:100; top:50;"/>
 
 TikTok (new)   [rocksetta](https://github.com/hpssjellis/hpssjellis/blob/main/media/Screenshot_20210730-191212_TikTok.jpg)
-<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400/>
+<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400 style="z-index:3; position:absolute;  left:200; top:150;/>
 
 
 
