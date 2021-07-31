@@ -57,9 +57,12 @@ Twitter:  https://twitter.com/rocksetta?lang=en
 
 Github: This page!  https://github.com/hpssjellis
 
-Instagram: ![jerteach](media/Screenshot_20210730-175840_Instagram.jpg)
+Instagram: 
+<br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 400/>
 
-TikTok (new) ![rocksetta](media/Screenshot_20210730-191212_TikTok.jpg)
+TikTok (new) 
+<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400/>
+
 
 
 ## Favorite Repositories
