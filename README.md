@@ -19,7 +19,7 @@ In researching the above Robotics Machine Learning Maker 100 program, I designed
 
 My TensorflowJS site is [www.rocksetta.com/tensorflowjs](https://www.rocksetta.com/tensorflowjs/) Note: everything is Vanilla Javascript as easy as possible. Examples are clear, Keras based and simple for students to build from.
 
-My best, easiest example is this [xOr example](https://www.rocksetta.com/tensorflowjs/beginner-keras/20keras-xOr.html)
+My best, easiest TensorflowJS Vanilla Javascript example is this [xOr example](https://www.rocksetta.com/tensorflowjs/beginner-keras/20keras-xOr.html)
 
 My TinyML Portenta examples site is [here](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow) although an easier example is on the above library.
 
