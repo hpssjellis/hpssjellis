@@ -5,7 +5,7 @@
 #### I simplify Robotics and Machine Learning
 
 
-## Maker100
+## [Maker100](https://github.com/hpssjellis/maker100)
 Presenlty working on improving my 7 year student tested Arduino Clone Robotics course [old course here](https://github.com/hpssjellis/particle.io-photon-high-school-robotics) to a new robotics and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100) designed for any non-engineering University program and is planned to be ready for Jan 2022.
 
 The course introduces all the hands on basics of robotics; sensors and actuators, with a simplified [Edge Impulse](https://www.edgeimpulse.com/) Machine Learning introduction all based around the (in my opinion) best all round microcontroller the new Arduino Pro boards: ~$100 USD [PortentaH7](https://store.arduino.cc/usa/portenta-h7), ~$50 USD Portenta Vision shields ([Ethernet](https://store.arduino.cc/usa/portenta-vision-shield) and [LoRaWan](https://store.arduino.cc/usa/portenta-vision-shield-lora)), ~$50 USD [Portenta Breakout Board](https://store.arduino.cc/usa/portenta-breakout). The course uses my ever changing offical Arduino IDE Library of examples [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
@@ -58,10 +58,10 @@ Twitter:  https://twitter.com/rocksetta?lang=en
 Github: This page!  https://github.com/hpssjellis
 
 Instagram: 
-<br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 400/>
+<br><img src="media/Screenshot_20210730-175840_Instagram.jpg" width = 300/>
 
 TikTok (new) 
-<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 400/>
+<br><img src="media/Screenshot_20210730-191212_TikTok.jpg" width = 300/>
 
 
 
