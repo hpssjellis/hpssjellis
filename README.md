@@ -30,8 +30,32 @@ My TinyML Portenta examples site is [here](https://github.com/hpssjellis/my-exam
 
 ## About Me
 
+Name: Jeremy Ellis
+
+Pronouns: he/him
+
+
+Education: B.Sc. Chemistry 1986, B.Ed Swecondary School and a Diploma Counselling.  
+
+Teaching: Have taught High School Math, General Science and Physics 11/12  
+
+Now Teaching Coding (Game Development), Animation, Robotics and 3D Printing. All self developed courses.
+
+Passionate about Open Source and the general public having hands on experience with both Robotics and Machine Learning.
+
+I also teach a STEM class after school Thursdays at [GearBots.org](https://www.gearbots.org/)
+
+Looking into how I can support capable Indigenous students to have access to Machine Learning
+
+
 
 ## Social Media
+
+Website:  https://rocksetta.com/
+
+Twitter:  https://twitter.com/rocksetta?lang=en
+
+Github: This page!  https://github.com/hpssjellis
 
 
 ## Favorite Repositories
@@ -42,7 +66,9 @@ My TinyML Portenta examples site is [here](https://github.com/hpssjellis/my-exam
 
 ## Other 
 
-###### By Jeremy Ellis Use at your own risk!
+
+
+###### By Jeremy Ellis. Use at your own risk!
 
 
 
