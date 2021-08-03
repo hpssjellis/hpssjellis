@@ -5,6 +5,10 @@
 
 <img src="media/20210731_142149.jpg" width = 400/>
 
+
+
+
+
 #### I simplify Robotics and Machine Learning
 
 I am a technology teacher from BC, Canada.
@@ -65,6 +69,9 @@ Looking into how I can support capable Indigenous students to have access to Mac
 
 
 
+<img src="media/Reducedisabilities.jpg" width = 400/>
+
+
 ## Social Media
 
 Website:  https://rocksetta.com/
@@ -123,14 +130,6 @@ https://www.youtube.com/playlist?list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw
 
 
 
-#### Helium HNT The Peoples Network
-
-
-https://www.youtube.com/playlist?list=PL57Dnr1H_egu0PkIBAbbdfQ21O_NJqJg8
-
-####  Arduino High School Robotics
-
-https://www.youtube.com/playlist?list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05
 
 
 ####  Particle High School Robotics
@@ -140,18 +139,6 @@ https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr
 #### My TensorflowJS Videos
 https://www.youtube.com/watch?v=dnDb-RAvxHg&list=PL57Dnr1H_egukaDgFqwEnDVStd7Jktg1E
 
-
-#### Social Distancing
-https://www.youtube.com/watch?v=jquWGWDEVb4&list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
-
-
-#### Key Free Music
-https://www.youtube.com/watch?v=qbmX1FDpbEM&list=PL57Dnr1H_egttPxXEgCf7Fn-Vh5OFHh1z
-
-
-
-#### PhoneGap Javascript (OLD)
-https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5rCKK
 
 
 
