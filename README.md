@@ -104,6 +104,9 @@ or
 
 ## Favorite Repositories
 
+
+my Gitpod of EdgeImpulse   https://github.com/hpssjellis/my-gitpod-of-edge-impulse
+
 This page   https://github.com/hpssjellis/hpssjellis
 
 Arduino Portenta  https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7
@@ -188,9 +191,14 @@ Celebrity TensorflowJS  see gitpage  https://github.com/hpssjellis/celeb2-classi
 tensorflowjs faceapi see gitpage  https://github.com/hpssjellis/face-api.js-for-beginners-more-accurate
 
 
+Particle photon raspberry pi   https://github.com/hpssjellis/particle-photon-raspberry-pi-iot
 
 
+Teachable machine  https://github.com/hpssjellis/teachable-machine
 
+tensorflowjs playground  https://github.com/hpssjellis/playground
+
+ASH on windows  https://github.com/hpssjellis/my-installs-for-bash-on-windows
 
 
 
