@@ -104,6 +104,94 @@ or
 
 ## Favorite Repositories
 
+This page   https://github.com/hpssjellis/hpssjellis
+
+Arduino Portenta  https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7
+
+Maker100  https://github.com/hpssjellis/maker100
+
+My Portenta Arduino Library https://github.com/hpssjellis/portenta-pro-community-solutions
+
+Particle Robotics course  https://github.com/hpssjellis/particle.io-photon-high-school-robotics
+
+My Maker Videos  https://github.com/hpssjellis/my-examples-of-my-best-maker-videos
+
+Fancvy ways to do javascript  https://github.com/hpssjellis/js-examples
+
+MSS Machine Learning Club  https://github.com/hpssjellis/mss-machine-learning-club  or https://github.com/hpssjellis/fraser-valley-IDS-robotics-machine-learning-javascript-high-school
+
+LoRa on the Portneta (advanced)  https://github.com/hpssjellis/portenta-lora-murata-stm32lo
+
+
+Particle websocket hacking  https://github.com/hpssjellis/Particle-Spark-Core-Photon-Websocket-Hack
+
+Arduino websocket  https://github.com/hpssjellis/arduino-simple-websocket
+
+Bunch of STL 3D Printing files since I am too lazy to put things on Thingiverse.com   https://github.com/hpssjellis/my-3D-printing-stl
+
+
+
+Messing with browser web-BLE  https://github.com/hpssjellis/my-3D-printing-stl only good on windows not Mac
+
+
+Openthread as a gitpod  https://github.com/hpssjellis/my-gitpod-of-openthread
+
+
+I messed with Quantum computing for a few months   https://github.com/hpssjellis/my-examples-for-quantum-computing
+
+TensorflowJS to Arduino c header files  https://github.com/hpssjellis/Gitpod-auto-tensorflowJS-to-arduinon  or  https://github.com/hpssjellis/gitpod-tensorflowjs-to-arduino
+
+Cartoon yourself (load the gitpage)  https://github.com/hpssjellis/zoom-cartoon-svg
+
+Something I made witgh tensorflowjs   https://github.com/hpssjellis/beginner-tensorflowjs-examples-in-javascript
+
+Wolfram try the gitpage  https://github.com/hpssjellis/wolfram-notebook-embedder
+
+Virus estimator  try the gitpage https://github.com/hpssjellis/personal-virus-estimator
+
+
+vscode javascript  https://github.com/hpssjellis/javascript-with-vscode-intellisense-no-ES6-no-Typescript
+
+Nordic NRF52840 https://github.com/hpssjellis/everything-nrf52840-usb-dongles
+
+??? https://github.com/hpssjellis/char-rnn-tensorflow-music-3dprinting
+
+3D Animation  https://github.com/hpssjellis/3D-Animation
+
+Nano 33 IOT guide  https://github.com/hpssjellis/Arduino-Nano-33-IoT-Ultimate-Guide
+
+GITPOD  HTML from github   https://hpssjellis.github.io/rocksetta-gitpod-links/
+
+
+Particle IOTA https://hpssjellis.github.io/rocksetta-gitpod-links/
+
+
+TensorflowJS Pecha Kucha ligthening talks  see the gipage   https://github.com/hpssjellis/lightening-talk-Pecha-Kucha-tensorflowjs 
+
+
+ParticlePhoton cloud9  https://github.com/hpssjellis/particle-photon-on-cloud9
+
+
+
+Cordova Phoengap   https://github.com/hpssjellis/my-gitpod-cordova  or https://github.com/hpssjellis/my-gitpod-ionic-cordova
+
+
+
+Tensorflwojs  speech  https://github.com/hpssjellis/tfjs-models-purejs-speech-commands
+
+
+tensorflowjs BVH  animation   https://github.com/hpssjellis/tensorflowjs-bvh
+
+Celebrity TensorflowJS  see gitpage  https://github.com/hpssjellis/celeb2-classify  gitpage at https://hpssjellis.github.io/celeb2-classify/
+
+
+tensorflowjs faceapi see gitpage  https://github.com/hpssjellis/face-api.js-for-beginners-more-accurate
+
+
+
+
+
+
 
 
 
