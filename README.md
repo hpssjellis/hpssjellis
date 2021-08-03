@@ -69,7 +69,6 @@ Looking into how I can support capable Indigenous students to have access to Mac
 
 
 
-<img src="media/Reducedisabilities.jpg" width = 400/>
 
 
 ## Social Media
@@ -245,6 +244,9 @@ I get migraines but am wading through the Snake Oil and will eventually be able 
 
 Both my arms dislocate, but I find that the less I play: rugby, kayak, rockclimb, volleyball, pillow fight the less it is a problem.
 
+I don't seem to have as good control of my memory as I would like.
+
+<img src="media/Reducedisabilities.jpg" width = 400/>
 
 ###### By Jeremy Ellis. Use at your own risk!
 
