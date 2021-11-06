@@ -3,7 +3,7 @@
 ### Jeremy Ellis, Rocksetta
 
 
-# My Present Project Completion Estimates:
+# My Present (Nov 2021) Github Project Completion Estimates:
 
 
 | Title and  LInk   | Blurb | Percent Complete |
