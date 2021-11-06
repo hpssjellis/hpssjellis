@@ -3,6 +3,21 @@
 ### Jeremy Ellis, Rocksetta
 
 
+# My Present Project Completion Estimates:
+
+
+| Title | Main LInk                         | Blurb                                                                                                                                                                 | Percent Complete |
+|--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| <a name="1" href="#1">`1`</a>.  f  | []() |     bla bla bla       |       70%          | 
+| <a name="2" href="#2">`1`</a>. g  | []() |     bla bla bla       |       70%          | 
+| <a name="3" href="#3">`1`</a>.  hj  | []() |     bla bla bla       |       70%          | 
+| <a name="4" href="#4">`1`</a>.   j | []() |     bla bla bla       |       70%          | 
+
+
+
+
+
+
 <img src="media/20210731_142149.jpg" width = 400/>
 
 
