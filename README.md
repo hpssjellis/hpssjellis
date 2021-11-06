@@ -4,6 +4,7 @@
 
 
 # My Present (Nov 2021) Github Project Completion Estimates:
+#### I like to stay busy.
 
 
 | Title and  LInk   | Blurb | Percent Complete |
@@ -19,15 +20,10 @@
 | <a name="9" href="#9">`9`</a>   [maker101](https://github.com/hpssjellis/maker101) |     Combining Javascript, TensorflowJS, Edge Impulse and the Arduino Portenta for a more advacned Maker course with Machine Larning, would need colaboration with a few Universities |       3%          | 
 | <a name="10" href="#10">`10`</a>   [No link yet]() |     Use the Arduino Portenta to analyse sweat electrolytes and glucose        |       2%          | 
 | <a name="11" href="#11">`11`</a>   [Adruino Portenta Stackable PCB making using easyEDA and JLCPCB](https://github.com/hpssjellis/maker100#31) |    The Arduino Portenta has 2x 80 pin HD connectors. This is a bit of a problem to make stackable boards unless you find out it is fairly easy using easyEDA and JLCPCB.       |       30%          | 
-| <a name="12" href="#12">`12`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
-| <a name="12" href="#11">`11`</a>   []() |     bla bla bla       |       0%          | 
+| <a name="12" href="#12">`12`</a>   []() |    .      |       0%          | 
+| <a name="13" href="#13">`13`</a>   []() |    .     |       0%          | 
+| <a name="14" href="#14">`14`</a>   []() |    .     |       0%          | 
+
 
 
 
