@@ -9,6 +9,7 @@
 
 | Title and  LInk   | Description | Percent Complete |
 |-------------------------------------|------------------------------------------------------------------------------------------------|---------|
+| <a name="0" href="#0">`0`</a> [Portenta Pro Community Solutions Library](https://github.com/hpssjellis/portenta-pro-community-solutions) |     A massive library of example Arduino sketches solely for the Arduino PortentaH7, many of these examples will form the basis for the Maker100 course below being developed for Feb 2022.      |       70%          | 
 | <a name="1" href="#1">`1`</a> [Maker100](https://github.com/hpssjellis/maker100) |     A University level, tested on High School Students, general introduction for Microcontroller Sensing, Automation, Communication and Machine Learning. Completely designed around the Arduino Poretenta but could be used in part with a few other microcontrollers      |       70%          | 
 | <a name="2" href="#2">`2`</a>  [Arduino Portenta Research](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7) |    My Basic research of the Arduino Portenta with Machine Learning. Started around July 2020     |       90%          | 
 | <a name="3" href="#3">`3`</a>   [Edge Impulse Videos and Research](https://github.com/hpssjellis/my-examples-of-edge-impulse) |     As I am an Edge Impulse Ambassador I am always looking how to make using Edge Impulse with Arduinos easier     Videos [here](https://www.youtube.com/watch?v=dLQ6uR6vh_A&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR&index=1&t=0s)   |       30%          | 
