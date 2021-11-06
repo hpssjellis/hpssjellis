@@ -6,8 +6,8 @@
 # My Present Project Completion Estimates:
 
 
-| Title and  LInk   | Blurb | Percent Complete |
 |-------------------------------------|-----------------------------------------|---------|
+| Title and  LInk   | Blurb | Percent Complete |
 | <a name="1" href="#1">`1`</a> [Maker100](https://github.com/hpssjellis/maker100) |     A University level, tested on High School Students, general introduction for Microcontroller Sensing, Automation, Communication and Machine Learning       |       70%          | 
 | <a name="2" href="#2">`1`</a>.  []() |     bla bla bla       |       70%          | 
 | <a name="3" href="#3">`1`</a>.   []() |     bla bla bla       |       70%          | 
