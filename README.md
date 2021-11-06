@@ -6,12 +6,12 @@
 # My Present Project Completion Estimates:
 
 
-| Title | Main LInk                         | Blurb                                                                                                                                                                 | Percent Complete |
-|--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| <a name="1" href="#1">`1`</a>.  f  | []() |     bla bla bla       |       70%          | 
-| <a name="2" href="#2">`1`</a>. g  | []() |     bla bla bla       |       70%          | 
-| <a name="3" href="#3">`1`</a>.  hj  | []() |     bla bla bla       |       70%          | 
-| <a name="4" href="#4">`1`</a>.   j | []() |     bla bla bla       |       70%          | 
+| Title and  LInk                         | Blurb                                                                                                                                                                 | Percent Complete |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| <a name="1" href="#1">`1`</a>.  [Maker100](https://github.com/hpssjellis/maker100) |     A University level, tested on High School Students, general introduction for Microcontroller sensing Automation and Machine Learning       |       70%          | 
+| <a name="2" href="#2">`1`</a>.  []() |     bla bla bla       |       70%          | 
+| <a name="3" href="#3">`1`</a>.   []() |     bla bla bla       |       70%          | 
+| <a name="4" href="#4">`1`</a>.   []() |     bla bla bla       |       70%          | 
 
 
 
