@@ -6,12 +6,20 @@
 # My Present Project Completion Estimates:
 
 
-|-------------------------------------|-----------------------------------------|---------|
 | Title and  LInk   | Blurb | Percent Complete |
+|-------------------------------------|------------------------------------------------------------------------------------------------|---------|
 | <a name="1" href="#1">`1`</a> [Maker100](https://github.com/hpssjellis/maker100) |     A University level, tested on High School Students, general introduction for Microcontroller Sensing, Automation, Communication and Machine Learning       |       70%          | 
-| <a name="2" href="#2">`1`</a>.  []() |     bla bla bla       |       70%          | 
-| <a name="3" href="#3">`1`</a>.   []() |     bla bla bla       |       70%          | 
-| <a name="4" href="#4">`1`</a>.   []() |     bla bla bla       |       70%          | 
+| <a name="2" href="#2">`1`</a>  [Arduino Portenta Research](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7) |    My Basic research of the Arduino Portenta with Machine Learning. Started around July 2020     |       90%          | 
+| <a name="3" href="#3">`1`</a>   [Edge Impulse Videos and Research](https://github.com/hpssjellis/my-examples-of-edge-impulse) |     As I am an Edge Impulse Ambassador I am always looking how to make using Edge Impulse with Arduinos easier     Videos [here](https://www.youtube.com/watch?v=dLQ6uR6vh_A&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR&index=1&t=0s)   |       30%          | 
+| <a name="4" href="#4">`1`</a>   [Portenta MQTT Ethernet Server arduino Library](https://github.com/hpssjellis/tinyMqttPortentaEthernetV2) |     Use one of the Portenta Shields Ethernet connectivity to make the Arduino Portenta into an MQTT server for communication about IoT data      |       70%          |
+| <a name="5" href="#4">`1`</a>   [Portenta MQTT Wifi Server arduino Library](https://github.com/hpssjellis/tinyMqttPortentaWiFiV2) |     Use one of the Portenta Shields Ethernet connectivity to make the Arduino Portenta into an MQTT server for communication about IoT data      |       70%          |  
+| <a name="6" href="#4">`1`</a>   [Helium LoRaWan cryptocurrency Portenta Connectivity](https://www.helium.com/) |     An Advanced part of my Maker100 course is to use the LoRaWan Helium HNT Peoples Network to communicate Arduino Portenta Data with either the world or your own local needs       |       30%          | 
+| <a name="7" href="#4">`1`</a>   [Portenta RC Machine Learning Car control](https://github.com/hpssjellis/machine-learning-gearbots-jer/tree/master/downloads) |     Controling an  RC car except on board using the Arduino Portenta and some Machine Learning. This is for an after school course I teach with [GearbotsBC](https://www.gearbots.org/stem-academy/)       |       60%          | 
+| <a name="8" href="#4">`1`</a>   [Machine Learning with Javascript and TensorflowJS](https://www.rocksetta.com/tensorflowjs/) |     Old ML project using TensorflowJS and Javascript in the browser. I might get back to this when I find an easy way for a cell phone to connect to the Arduino Portenta directly.       |       90%          | 
+| <a name="9" href="#4">`1`</a>   [No link yet]() |     Use the Arduino Portenta to analyse sweat electrolytes and glucose        |       2%          | 
+| <a name="11" href="#4">`1`</a>   []() |     bla bla bla       |       0%          | 
+| <a name="12" href="#4">`1`</a>   []() |     bla bla bla       |       0%          | 
+
 
 
 
