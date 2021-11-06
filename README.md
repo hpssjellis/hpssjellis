@@ -7,7 +7,7 @@
 #### I like to stay busy.
 
 
-| Title and  LInk   | Blurb | Percent Complete |
+| Title and  LInk   | Description | Percent Complete |
 |-------------------------------------|------------------------------------------------------------------------------------------------|---------|
 | <a name="1" href="#1">`1`</a> [Maker100](https://github.com/hpssjellis/maker100) |     A University level, tested on High School Students, general introduction for Microcontroller Sensing, Automation, Communication and Machine Learning. Completely designed around the Arduino Poretenta but could be used in part with a few other microcontrollers      |       70%          | 
 | <a name="2" href="#2">`2`</a>  [Arduino Portenta Research](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7) |    My Basic research of the Arduino Portenta with Machine Learning. Started around July 2020     |       90%          | 
