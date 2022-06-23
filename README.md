@@ -26,8 +26,12 @@
 | <a name="14" href="#14">`14`</a>   [easyEDA](https://easyeda.com/) |    Teaching PCB design using EasyEDA. My advance Robotics and animation students only need this [link](https://www.youtube.com/watch?v=gjPNYMRA0m8&list=PLbKMtvtYbdPMZfzGuVTdc0MWKrFvU4nsu&index=2) to be able to start makiing PCB's. My school Machine Learning Club was given by the PAC some money to pay for boards from JLCPCB     |       70%          | 
 | <a name="15" href="#15">`15`</a>   [Voltera.io](https://www.voltera.io/) |    PCB designer hardware to make your own PCB's. Drills, Lays conducting ink, on both sides, punch copperr rivets into the holes, lays solder paste, place your items (probably top side only), auto heats and melts solder paste. Very Cool > I need my shool to purchase this.     |       1%          | 
 | <a name="16" href="#16">`16`</a>   [WebSerial](https://github.com/hpssjellis/my-examples-of-arduino-webUSB-webSerial) | Started June 2022.   Connect the Arduino PortentaH7 or Seeduino XIAO (probably any microcontroller) to a webpage on your computer or cell phone (tested on Android using webSerial Polyfill) to send and receive Serial communication. Demo page [here](https://hpssjellis.github.io/my-examples-of-arduino-webUSB-webSerial/public/webserial-and-polyfill.html), Arduino sketch [here](https://github.com/hpssjellis/my-examples-of-arduino-webUSB-webSerial/blob/main/public/arduino04-webserial.txt) . This is important to allow a cell phone to do the power hungry Machine Learning while the arduino collects sensor data or drives actuators to do something.     |       95%          | 
-| <a name="17" href="#17">`17`</a>   []() |    .     |       0%          | 
+| <a name="17" href="#17">`17`</a>   [tinyml.seas.harvard.edu](https://tinyml.seas.harvard.edu/team/) |    Part of the working group for the Harvard, John A. Paulson School of Engineering and Applied Sciences (SEAS) TinyMLedu Tiny Machine Learning Open Education Initiative     |       Just started May 2022          | 
 | <a name="18" href="#18">`18`</a>   []() |    .     |       0%          | 
+| <a name="19" href="#19">`19`</a>   []() |    .     |       0%          | 
+| <a name="20" href="#20">`20`</a>   []() |    .     |       0%          | 
+| <a name="21" href="#21">`21`</a>   []() |    .     |       0%          | 
+| <a name="22" href="#22">`22`</a>   []() |    .     |       0%          | 
 
 
 
