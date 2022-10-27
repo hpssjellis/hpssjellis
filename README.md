@@ -3,7 +3,7 @@
 ### Jeremy Ellis, Rocksetta
 
 
-# My Present (May 2022) Github Project Completion Estimates:
+# My Present (Oct 2022) Github Project Completion Estimates:
 #### I like to stay busy.
 
 
@@ -30,8 +30,8 @@
 | <a name="18" href="#18">`18`</a>   [pecha-kucha-lightning-talks-template](https://github.com/hpssjellis/pecha-kucha-lightning-talks-template) |    How to combine Powerpoint with .pdf files but using Coders markdown and Vanilla Javascript. Fork this repo to make yuor own Lightning Talk Pecha Kucha Presentation    |       98%          | 
 | <a name="19" href="#19">`19`</a> [my-robotics-machine-learning-teaching-lightning-talk-pecha-kucha Demo](https://hpssjellis.github.io/my-robotics-machine-learning-teaching-lightning-talk-pecha-kucha/)  |    My July 2022 state of teaching Robotics and Machine learning to High School Students. Where I am at and how it is going 5 min pre-recorded Presentation  Github at  [my-robotics-machine-learning-teaching-lightning-talk-pecha-kucha](https://github.com/hpssjellis/my-robotics-machine-learning-teaching-lightning-talk-pecha-kucha)   |       95%          | 
 | <a name="20" href="#20">`20`</a> [https://hpssjellis.github.io/lightening-talk-Pecha-Kucha-tensorflowjs/](https://hpssjellis.github.io/lightening-talk-Pecha-Kucha-tensorflowjs/)  |    Old style of lots of individual images for each slide. Worked fine but each link was not clickable. Github at [lightening-talk-Pecha-Kucha-tensorflowjs](https://github.com/hpssjellis/lightening-talk-Pecha-Kucha-tensorflowjs)    |      100%          |
-| <a name="21" href="#21">`21`</a>   []() |    .     |       0%          | 
-| <a name="22" href="#22">`22`</a>   []() |    .     |       0%          | 
+| <a name="21" href="#21">`21`</a>   [https://github.com/hpssjellis/diy-flexible-pcb-biosensor](https://github.com/hpssjellis/diy-flexible-pcb-biosensor) |    DIY making Flexible BioSensors with the PortentaH7 or XIAO microcontrollers     |      Started Oct 2022 10%          | 
+| <a name="22" href="#22">`22`</a>   [https://github.com/hpssjellis/multi-language-edgeimpulse-tutorial-vision-cell-phone](https://github.com/hpssjellis/multi-language-edgeimpulse-tutorial-vision-cell-phone) |    Example of my new multi-language Tutorial technique which I will  connect with my future teaching Videos. Makes for a searchable tutorial that also has a video component    |       50%          | 
 | <a name="23" href="#23">`23`</a>   []() |    .     |       0%          | 
 | <a name="24" href="#24">`24`</a>   []() |    .     |       0%          | 
 | <a name="25" href="#25">`25`</a>   []() |    .     |       0%          | 
@@ -47,7 +47,9 @@
 
 <img src="media/20210731_142149.jpg" width = 400/>
 
+<img src="https://user-images.githubusercontent.com/5605614/198167263-45fcba70-e727-4958-b100-d1bdd39952c7.jpg" width = 400/>
 
+<img src="https://user-images.githubusercontent.com/5605614/198167283-2464571f-2d0e-4979-840a-e57273ec1d41.jpg" width = 400/>
 
 
 
