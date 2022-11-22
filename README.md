@@ -111,7 +111,7 @@ I also teach a STEM class after school Thursdays at [GearBots.org](https://www.g
 
 Looking into how I can support capable Indigenous students to have access to Machine Learning
 
-
+<a rel="me" href="https://masto.ai/@rocksetta">Mastodon</a>
 
 
 
