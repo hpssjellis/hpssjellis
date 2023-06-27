@@ -3,7 +3,7 @@
 ### Jeremy Ellis, Rocksetta
 
 
-# My Present (Feb 2023) Github Project Completion Estimates:
+# My Present (June 2023) Github Project Completion Estimates:
 #### I like to stay busy.
 
 
