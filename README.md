@@ -1,6 +1,6 @@
 
 
-### Jeremy Ellis, Rocksetta
+### Jeremy Ellis, ex: Rocksetta now <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">LinkedIn</a>
 
 
 # My Present (June 2023) Github Project Completion Estimates:
