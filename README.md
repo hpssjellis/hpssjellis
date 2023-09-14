@@ -9,8 +9,9 @@
 
 | Title and  LInk   | Description | Percent Complete |
 |:---|:---|:---|
+| <a name="37" href="#37">`37`</a>   []() |    .     |       0%          | 
 | <a name="36" href="#36">`36`</a>   []() |    .     |       0%          | 
-| <a name="35" href="#35">`35`</a>   []() |    .     |       0%          | 
+| <a name="35" href="#35">`35`</a>   [tensorflowjs-to-arduino-for-tinymljs](https://github.com/hpssjellis/tensorflowjs-to-arduino-for-tinymljs) |    Gitpod ready tensorflowJS converter to convert models made using Javascript into TFLITE and TFMicro (C header file) ready models    |       30%          | 
 | <a name="34" href="#34">`34`</a>   [google-coral-micro](https://github.com/hpssjellis/mcu-stable-edu-launch/tree/main/google-coral-micro) |    Google Coral Micro First look and installation on the Arduino and Linux (Ubuntu)     |       10%          | 
 | <a name="33" href="#33">`33`</a>   [xiao-esp32s3](https://github.com/hpssjellis/mcu-stable-edu-launch/tree/main/xiao-esp32s3) |   XIAO ESP32S-Sense First look and some working code    |       40%          | 
 | <a name="32" href="#32">`32`</a> Machine Learning Conference Personalized Playlists |   Started this project in August 2023.  A group of conference ready, machine learning, short, youtube videos that can be strung together in a personalized playlist for teachers to present a 1-5 day TinyML hands-on conference, most likely about: Edge Impulse, TinyMLjs, Seeedstudio XiaoEsp32S3 and accesories and the Arduino PortentaH7 and Nicla Vision and others |       01%  complete        | 
