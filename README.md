@@ -46,11 +46,7 @@
 | <a name="03" href="#03">`03`</a> [https://hpssjellis.github.io/lightening-talk-Pecha-Kucha-tensorflowjs/](https://hpssjellis.github.io/lightening-talk-Pecha-Kucha-tensorflowjs/)  |    Old style of lots of individual images for each slide. Worked fine but each link was not clickable. Github at [lightening-talk-Pecha-Kucha-tensorflowjs](https://github.com/hpssjellis/lightening-talk-Pecha-Kucha-tensorflowjs)    |      100%          |
 | <a name="02" href="#02">`02`</a>   [https://github.com/hpssjellis/diy-flexible-pcb-biosensor](https://github.com/hpssjellis/diy-flexible-pcb-biosensor) |    DIY making Flexible BioSensors with the PortentaH7 or XIAO microcontrollers     |      Started Oct 2022 10%          | 
 | <a name="01" href="#01">`01`</a>   [https://github.com/hpssjellis/multi-language-edgeimpulse-tutorial-vision-cell-phone](https://github.com/hpssjellis/multi-language-edgeimpulse-tutorial-vision-cell-phone) |    Example of my new multi-language Tutorial technique which I will  connect with my future teaching Videos. Makes for a searchable tutorial that also has a video component    |       50%          | 
-| <a name="23" href="#23">`23`</a>   []() |    .     |       0%          | 
-| <a name="24" href="#24">`24`</a>   []() |    .     |       0%          | 
-| <a name="25" href="#25">`25`</a>   []() |    .     |       0%          | 
-| <a name="26" href="#26">`26`</a>   []() |    .     |       0%          | 
-| <a name="27" href="#27">`27`</a>   []() |    .     |       0%          | 
+
 
 
 
