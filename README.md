@@ -321,7 +321,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+  ![image](https://github.com/hpssjellis/hpssjellis/assets/5605614/ba9db5a7-d70a-42ad-93af-2821e11cbacb)
+
   
   
   </body>
