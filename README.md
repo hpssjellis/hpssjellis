@@ -6,9 +6,12 @@
 # My Present (August 2023) Github Project Completion Estimates:
 #### I like to stay busy.
 
+With technology you start multiple projects and some of them need updates or just aren't right for you. Here is my list!
+
 
 | Title and  LInk   | Description | Percent Complete |
 |:---|:---|:---|
+| <a name="38" href="#38">`38`</a>   [RAK2270 Sticker-Tracker](https://github.com/hpssjellis/mcu-stable-edu-launch/tree/main/rak2270-sticker-tracker) |    This is a postage sticker that you QR code it to TrackPac.io for a year subscription and it auto launches a Helium network connectivity. Tear open the bottom of the sticker and you have battery activated it for hourly temperature, LoRaWan locaiton measurements with. The device comes with an accelerometer but needs to be programmed. Arduino IDE seems to be supported      |       3%          | 
 | <a name="37" href="#37">`37`</a>   []() |    .     |       0%          | 
 | <a name="36" href="#36">`36`</a>   [RocksettaTinyML](https://github.com/hpssjellis/RocksettaTinyML) |    I found a 3 year old library I made based on eleoquentTinyML that still loads machine learning models on Micro-controllers in a very simple way. Seriously easy. So I am adding relevant Nicla- Vision examples etc. Every ML model has an input array to a prediction that returns an output array, in whatever types you declare. That's it! Seems useful, since [Google TFLITE Micro](https://github.com/tensorflow/tflite-micro) has deprecated the Google [TFLM arduino examples](https://github.com/tensorflow/tflite-micro-arduino-examples) library      |       60%          | 
 | <a name="35" href="#35">`35`</a>   [tensorflowjs-to-arduino-for-tinymljs](https://github.com/hpssjellis/tensorflowjs-to-arduino-for-tinymljs) |    Gitpod ready tensorflowJS converter to convert models made using Javascript into TFLITE and TFMicro (C header file) ready models    |       30%          | 
