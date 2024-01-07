@@ -3,19 +3,21 @@
 ### Jeremy Ellis, ex: Rocksetta now <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">LinkedIn</a>
 
 
-I am in the top 10 Github Open Source Contributions in Canada (hpssjellis)   https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/canada.md
+I am a top 10 Github Open Source Contributors in Canada (hpssjellis) see website at  https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/canada.md
 
-# My Present (August 2023) Github Project Completion Estimates:
+# My Present (January 2024) Github Project Completion Estimates:
 #### I like to stay busy.
 
-With technology you start multiple projects and some of them need updates or just aren't right for you. Here is my list!
+With technology you start multiple projects and some of them need updates or get deprecated or just aren't right for you. Here is my list!
 
 
 | Title and  LInk   | Description | Percent Complete |
 |:---|:---|:---|
 | <a name="39" href="#39">`39`</a>   []() |    .     |       0%          | 
-| <a name="38" href="#38">`38`</a>   [my-examples-of-the-gptstore](https://github.com/hpssjellis/my-examples-of-the-gptstore) |    GPT Store. I know nothing about it as of Nov 9th 2023 but it sounds interesting. I guess I need a ChatGPT-plus subscription     |       1%          | 
-| <a name="37" href="#37">`37`</a>   [RAK2270 Sticker-Tracker](https://github.com/hpssjellis/mcu-stable-edu-launch/tree/main/rak2270-sticker-tracker) |    This is a postage sticker that you QR code it to TrackPac.io for a year subscription and it auto launches a Helium network connectivity. Tear open the bottom of the sticker and you have battery activated it for hourly temperature, LoRaWan locaiton measurements with. The device comes with an accelerometer but needs to be programmed. Arduino IDE seems to be supported      |       3%          | 
+| <a name="40" href="#40">`40`</a>   []() |    .     |       0%          | 
+| <a name="39" href="#39">`39`</a>   [Maker100-eco](https://github.com/hpssjellis/maker100-eco) |    After the success of my [Maker100](https://github.com/hpssjellis/maker100) Robotics, IoT and TinyML Machine Learning course staring the $113.90 USD Arduino PortentaH7 with $69 USD LoRa Vision Shield I have decided to make a economic version of the course staring the [$13.99 USD Seeedstudio XiaoEsp32s](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) and the [$14.50 USD RakWireless RAK2270StickerTracker](https://store.rakwireless.com/products/rak2270-rak-sticker-tracker?variant=43046272303302). I hope students everywhere can enjoy parts of this in-person course.    |       5%          | 
+| <a name="38" href="#38">`38`</a>   [my-examples-of-the-gptstore](https://github.com/hpssjellis/my-examples-of-the-gptstore) |    GPT Store. I know nothing about it as of Nov 9th 2023 but it sounds interesting. I guess I need a ChatGPT-plus subscription     |       5%   Deprecated!       | 
+| <a name="37" href="#37">`37`</a>   [RAK2270 Sticker-Tracker](https://github.com/hpssjellis/mcu-stable-edu-launch/tree/main/rak2270-sticker-tracker) |    This is a postage sticker that you QR code it to TrackPac.io for a year subscription and it auto launches a Helium network connectivity. Tear open the bottom of the sticker and you have battery activated it for hourly temperature, LoRaWan locaiton measurements with. The device comes with an accelerometer but needs to be programmed. Arduino IDE seems to be supported      |       90%  See above maker100-eco course         | 
 | <a name="36" href="#36">`36`</a>   [RocksettaTinyML](https://github.com/hpssjellis/RocksettaTinyML) |    I found a 3 year old library I made based on eleoquentTinyML that still loads machine learning models on Micro-controllers in a very simple way. Seriously easy. So I am adding relevant Nicla- Vision examples etc. Every ML model has an input array to a prediction that returns an output array, in whatever types you declare. That's it! Seems useful, since [Google TFLITE Micro](https://github.com/tensorflow/tflite-micro) has deprecated the Google [TFLM arduino examples](https://github.com/tensorflow/tflite-micro-arduino-examples) library      |       60%          | 
 | <a name="35" href="#35">`35`</a>   [tensorflowjs-to-arduino-for-tinymljs](https://github.com/hpssjellis/tensorflowjs-to-arduino-for-tinymljs) |    Gitpod ready tensorflowJS converter to convert models made using Javascript into TFLITE and TFMicro (C header file) ready models    |       30%          | 
 | <a name="34" href="#34">`34`</a>   [google-coral-micro](https://github.com/hpssjellis/mcu-stable-edu-launch/tree/main/google-coral-micro) |    Google Coral Micro First look and installation on the Arduino and Linux (Ubuntu)     |       10%          | 
