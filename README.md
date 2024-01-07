@@ -3,7 +3,7 @@
 ### Jeremy Ellis, ex: Rocksetta now <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">LinkedIn</a>
 
 
-I am a top 10 Github Open Source Contributors in Canada (hpssjellis) see website at  https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/canada.md
+I am a top 10 Github Open Source contributor for Canada (hpssjellis) see website at  https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/canada.md
 
 # My Present (January 2024) Github Project Completion Estimates:
 #### I like to stay busy.
