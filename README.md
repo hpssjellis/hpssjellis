@@ -8,12 +8,14 @@ I am a top 10 Github Open Source contributor for Canada (hpssjellis) see website
 # My Present (January 2024) Github Project Completion Estimates:
 #### I like to stay busy.
 
-With technology you start multiple projects and some of them need updates or get deprecated or just aren't right for you. Here is my list!
+With technology you start multiple projects and some of them are successful and others need updates or get deprecated or just aren't right for you. Here is my list!
 
 
 | Title and  LInk   | Description | Percent Complete |
 |:---|:---|:---|
-| <a name="39" href="#39">`39`</a>   []() |    .     |       0%          | 
+| <a name="43" href="#43">`43`</a>   []() |    .     |       0%          | 
+| <a name="42" href="#42">`42`</a>   []() |    .     |       0%          | 
+| <a name="41" href="#41">`41`</a>   [Rabbit R1](https://github.com/hpssjellis/rabbit-r1-personal-companion-unboxing) |    I have ordered a Rabbit R1 Personal Companion On Jan 9th, when I head about it. By January 10th it was sold out after the first 10K were ordered. I think a new round of ordering is possible or are they all pre-order? [rabbit.tech]([rabbit.tech](https://www.rabbit.tech/)). <br> plan to do an uboxing video but mainly about Pros and Cons. Anyone can add possible things to try by going to my Github and adding an issue     |       5%          | 
 | <a name="40" href="#40">`40`</a>   [aMCC](https://github.com/hpssjellis/aMCC) |   The anterior midcingulate cortex (aMCC) may be part of the solution to a decade long attempt of mine to find out why coding is so hard to teach to non-natural coders.   |       3%          | 
 | <a name="39" href="#39">`39`</a>   [Maker100-eco](https://github.com/hpssjellis/maker100-eco) |    After the success of my [Maker100](https://github.com/hpssjellis/maker100) Robotics, IoT and TinyML Machine Learning course staring the $113.90 USD Arduino PortentaH7 with $69 USD LoRa Vision Shield I have decided to make an economic version of the in-preson course staring the [$13.99 USD Seeedstudio XiaoEsp32s](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) and the [$14.50 USD RakWireless RAK2270StickerTracker](https://store.rakwireless.com/products/rak2270-rak-sticker-tracker?variant=43046272303302). This is an in-person course, the links and videos are organizational quick reminders of what to do to become proficient at Robotics (IoT and Machine Learing) with microcontrollers. Most of the rest of the course will need an instructor or be solved through research such as using ChatGPT etc.  |       5%          | 
 | <a name="38" href="#38">`38`</a>   [my-examples-of-the-gptstore](https://github.com/hpssjellis/my-examples-of-the-gptstore) |    GPT Store. I know nothing about it as of Nov 9th 2023 but it sounds interesting. I guess I need a ChatGPT-plus subscription     |       5%   Deprecated!       | 
