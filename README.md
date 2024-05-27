@@ -6,8 +6,9 @@ I help to bring Tiny ML to universities in developing countires  https://tinyml.
 
 I am a top 10 Github Open Source contributor for Canada (hpssjellis) see website at  https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/canada.md
 
-First academic paper [ICTP Italy Summer 2023](https://indico.ictp.it/event/10185) started during the workshop:  [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425)
+First academic paper  [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425) started during the workshop at:  [ICTP Italy Summer 2023](https://indico.ictp.it/event/10185) 
 
+ 
 # My Present (January 2024) Github Project Completion Estimates:
 #### I like to stay busy.
 
