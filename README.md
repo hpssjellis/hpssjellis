@@ -8,6 +8,23 @@ I am a top 10 Github Open Source contributor for Canada (hpssjellis) see website
 
 First academic paper  [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425) started during the workshop at:  [ICTP Italy Summer 2023](https://indico.ictp.it/event/10185) 
 
+# Top QR Codes
+
+# maker 100-eco (Seeed studio XIAO-esp32s3 sense and rakwireless 2270 sticker tracker full Robotics Course)
+
+![image](https://github.com/user-attachments/assets/338a123c-3949-42f2-8749-15cc498cfb4f)
+
+
+
+
+
+
+
+
+
+
+
+
  
 # My Present (January 2024) Github Project Completion Estimates:
 #### I like to stay busy.
