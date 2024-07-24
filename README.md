@@ -21,7 +21,7 @@ https://github.com/hpssjellis
 .
 
 ## maker 100-eco 
-(Cheaper version of my Maker100 course using the SeeedStudio XIAO-esp32s3 sense and rakwireless 2270 sticker tracker full Robotics Course)
+(Cheaper version of my Maker100 course using the SeeedStudio XIAO-esp32s3 sense and rakwireless 2270 sticker tracker full Robotics Course)   
 https://github.com/hpssjellis/maker100-eco
 
 ![image](https://github.com/user-attachments/assets/338a123c-3949-42f2-8749-15cc498cfb4f)
@@ -29,7 +29,7 @@ https://github.com/hpssjellis/maker100-eco
 .
 
 ## TinyMLjs
-Single web page that use webserial to do most of the Machine Learning work we use other sites to make ML work on microcontrollers. I have this working for the Nano33 Ble Sense, NiclaVision, RakWireless 2270 Sticker tracker.
+Single web page that use webserial to do most of the Machine Learning work we use other sites to make ML work on microcontrollers. I have this working for the Nano33 Ble Sense, NiclaVision, RakWireless 2270 Sticker tracker.   
 https://github.com/hpssjellis/tinyMLjs
 
 ![image](https://github.com/user-attachments/assets/616f480b-92ff-48f5-8c90-8a48b6976301)
@@ -38,7 +38,7 @@ https://github.com/hpssjellis/tinyMLjs
 
 
 ## Portenta Pro Community Solutions Arduino Library
-You can just search for this is the arduino IDE to install it. Has over 100 examples presented in the maker100 robotics course using the PortentaH7 with Vision Shield
+You can just search for this is the arduino IDE to install it. Has over 100 examples presented in the maker100 robotics course using the PortentaH7 with Vision Shield.   
 https://github.com/hpssjellis/portenta-pro-community-solutions
 
 ![image](https://github.com/user-attachments/assets/e24d9d69-874b-41c3-b419-2255826dc7e4)
@@ -47,7 +47,7 @@ https://github.com/hpssjellis/portenta-pro-community-solutions
 
 ## RocksettaTinyML Arduino Library
 Surprisingly usefull, small tensorflowLite-micro library for the Arduno IDE. This time you need to download the zipped file from the github and install 
-using ( Sketch-->include library --> add .zip Library). Very small and easy to use tensorflow micro library. Try the sine wave and view the plotter to see if it works on your microcontroller.
+using ( Sketch-->include library --> add .zip Library). Very small and easy to use tensorflow micro library. Try the sine wave and view the plotter to see if it works on your microcontroller.    
 https://github.com/hpssjellis/RocksettaTinyML
 
 ![image](https://github.com/user-attachments/assets/af0923ee-a68e-437b-81d1-3bd6961a93da)
