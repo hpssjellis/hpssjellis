@@ -30,9 +30,10 @@ https://github.com/hpssjellis/maker100-eco
 
 ## TinyMLjs
 Single web page that use webserial to do most of the Machine Learning work we use other sites to make ML work on microcontrollers. I have this working for the Nano33 Ble Sense, NiclaVision, RakWireless 2270 Sticker tracker.   
-https://github.com/hpssjellis/tinyMLjs
+https://hpssjellis.github.io/tinyMLjs/public/index.html
 
-![image](https://github.com/user-attachments/assets/616f480b-92ff-48f5-8c90-8a48b6976301)
+![image](https://github.com/user-attachments/assets/236ebe33-9eb7-4c3c-8a98-413dc90f23b9)
+
 
 .
 
