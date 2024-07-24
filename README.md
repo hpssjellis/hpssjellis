@@ -13,11 +13,12 @@ First academic paper  [TinyML4D: Scaling Embedded Machine LearningEducation in t
 
 .
 
-## This Page Jeremy Ellis Github Profile
+## This Page: Jeremy Ellis Github Profile
 https://github.com/hpssjellis
 
 ![image](https://github.com/user-attachments/assets/ea0adcba-1006-4f1d-ba8e-c4b7c3f51ae3)
 
+.
 
 ## maker 100-eco 
 (Cheaper version of my Maker100 course using the SeeedStudio XIAO-esp32s3 sense and rakwireless 2270 sticker tracker full Robotics Course)
