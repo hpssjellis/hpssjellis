@@ -95,7 +95,16 @@ https://ca.linkedin.com/in/jeremy-ellis-4237a9bb
 
 
 
+# QR codes in a chart
 
+
+
+<img width="300" src="">
+<img width="300" src="">
+<img width="300" src="">
+, RAKwireless 2270: <img width="300" src="https://github.com/user-attachments/assets/c9eb9a63-680f-4ca0-bb18-33bb1d14f969">
+, Javascript: <img width="300" src="https://github.com/user-attachments/assets/70e404ef-9e35-46ca-a22d-42477197e3fd">
+, LinkedIn: <img width="300" src="https://github.com/user-attachments/assets/0c183f1d-ec7d-444d-8e65-92da32a98047">
 
 
 
