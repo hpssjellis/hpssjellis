@@ -66,9 +66,9 @@ https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/
 
 ## RAKwireless 2270 Sticker Tracker (Proof of concept)
 Machine Learning motion vibration analysis sending P2P LoRa to a receiver connected to this website that shows visually and the data for ML inference.        
-https://hpssjellis.github.io/mcu-stable-edu-launch/rak2270-sticker-tracker/html/index.html
+https://hpssjellis.github.io/mcu-stable-edu-launch/rak2270-sticker-tracker/html/lora-webpage-best.html
 
-![image](https://github.com/user-attachments/assets/ba621ede-f8bf-4771-a4b2-75d9a4176a55)
+![image](https://github.com/user-attachments/assets/c9eb9a63-680f-4ca0-bb18-33bb1d14f969)
 
 .
 
