@@ -56,6 +56,43 @@ https://github.com/hpssjellis/RocksettaTinyML
 .
 
 
+## TensorflowJS
+Reall old work I did on single page static websites that load many advanced vision Machine Learning models. Worth a check    
+https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/
+
+![image](https://github.com/user-attachments/assets/1a205721-8282-4032-9437-8d2b093aa9b6)
+
+.
+
+## RAKwireless 2270 Sticker Tracker (Proof of concept)
+Machine Learning motion vibration analysis sending P2P LoRa to a receiver connected to this website that shows visually and the data for ML inference.        
+https://hpssjellis.github.io/mcu-stable-edu-launch/rak2270-sticker-tracker/html/index.html
+
+![image](https://github.com/user-attachments/assets/ba621ede-f8bf-4771-a4b2-75d9a4176a55)
+
+.
+
+## My Coding in Javascript class    
+Not exciting the first set of assignments should be typed, I give the code to students willing to work with it and make it better.   
+https://github.com/hpssjellis/high-school-javascript-game-dev-assignment-images
+
+![image](https://github.com/user-attachments/assets/70e404ef-9e35-46ca-a22d-42477197e3fd)
+
+.
+
+
+
+
+
+## My LinkedIn Jeremy Ellis    
+https://ca.linkedin.com/in/jeremy-ellis-4237a9bb
+
+
+![image](https://github.com/user-attachments/assets/0c183f1d-ec7d-444d-8e65-92da32a98047)
+
+
+.
+
 
 
 
