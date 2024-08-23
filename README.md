@@ -25,7 +25,7 @@ https://github.com/hpssjellis/maker100-curriculum
 
 ![image](https://github.com/user-attachments/assets/4d4d4100-678f-4a7f-9bdc-0713e67c60c7)
 
-
+<details closed> <summary>Click for More QR Codes for presentations</summary> 
 .
 
 ## maker 100-eco 
@@ -89,7 +89,7 @@ https://github.com/hpssjellis/high-school-javascript-game-dev-assignment-images
 .
 
 
-
+</details>
 
 
 ## My LinkedIn Jeremy Ellis    
