@@ -18,6 +18,14 @@ https://github.com/hpssjellis
 
 ![image](https://github.com/user-attachments/assets/ea0adcba-1006-4f1d-ba8e-c4b7c3f51ae3)
 
+
+
+## maker100 - Curriculum
+https://github.com/hpssjellis/maker100-curriculum
+
+![image](https://github.com/user-attachments/assets/4d4d4100-678f-4a7f-9bdc-0713e67c60c7)
+
+
 .
 
 ## maker 100-eco 
@@ -107,7 +115,8 @@ With technology you start multiple projects and some of them are successful and 
 
 | Title and  LInk   | Description | Percent Complete |
 |:---|:---|:---|
-| <a name="46" href="#46">`46`</a>   []() |    .     |       0%          | 
+| <a name="47" href="#47">`47`</a>   []() |    .     |       0%          | 
+| <a name="46" href="#46">`46`</a>   [maker100-curriculum](https://github.com/hpssjellis/maker100-curriculum) |    A robotics, IoT, machine learning high school and undergrad hands on maker100-curriculum    |       80%          | 
 | <a name="45" href="#45">`45`</a>   [chatbot-learn-to-code](https://github.com/hpssjellis/chatbot-learn-to-code) |   My take on how to learn to code in an age when you can just talk to an LLM and it produces the code for you. Is that learning? We can ask an expert to do something for us, but does that have any learning value? Lets dig into possible ways to use chatBots to learn not just do the work for us. The demo webpage index is <a href="https://hpssjellis.github.io/chatbot-learn-to-code/public/index.html">here</a>     |       10%          | 
 | <a name="44" href="#44">`44`</a>   [Demo recording-js-looper/](https://hpssjellis.github.io/recording-js-looper/) | Here is the github [recording-js-looper/](https://hpssjellis.github.io/recording-js-looper/)  This is an attempt to understand the Pros and Cons of using a chatBot to computer program. You get something that works really fast, but as you start developing it and making it fit your needs I found I got lost in how it worked and only minimally learnt anything. Cocnlusion, best to use the chatbot to teach you how to do advanced work but then do the advanced work yourself. I am going to do more work in this area.   |       90%          | 
 | <a name="43" href="#43">`43`</a>   [Grove Vision AI V2](https://github.com/hpssjellis/robocar/tree/main/v3-0-0-grove-vision-ai-v2-and-xiao-esp32s3) |    Using the Grove Vision AI V2 with the Seeedstudio Xiao-Esp32S3 to improve my RoboCar     |       70%          | 
