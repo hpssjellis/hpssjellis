@@ -11,6 +11,13 @@ First academic paper  [TinyML4D: Scaling Embedded Machine LearningEducation in t
 # Top QR Codes
 
 
+## My LinkedIn Jeremy Ellis    
+https://ca.linkedin.com/in/jeremy-ellis-4237a9bb
+
+
+![image](https://github.com/user-attachments/assets/0c183f1d-ec7d-444d-8e65-92da32a98047)
+
+
 .
 
 ## This Page: Jeremy Ellis Github Profile
@@ -20,7 +27,7 @@ https://github.com/hpssjellis
 
 
 
-## maker100 - Curriculum
+## maker100 - Curriculum (Latest Project)
 https://github.com/hpssjellis/maker100-curriculum
 
 ![image](https://github.com/user-attachments/assets/4d4d4100-678f-4a7f-9bdc-0713e67c60c7)
@@ -92,13 +99,6 @@ https://github.com/hpssjellis/high-school-javascript-game-dev-assignment-images
 </details>
 
 
-## My LinkedIn Jeremy Ellis    
-https://ca.linkedin.com/in/jeremy-ellis-4237a9bb
-
-
-![image](https://github.com/user-attachments/assets/0c183f1d-ec7d-444d-8e65-92da32a98047)
-
-
 .
 
 
@@ -107,7 +107,7 @@ https://ca.linkedin.com/in/jeremy-ellis-4237a9bb
 
 
  
-# My Present (January 2024) Github Project Completion Estimates:
+# My Present (August 2024) Github Project Completion Estimates:
 #### I like to stay busy.
 
 With technology you start multiple projects and some of them are successful and others need updates or get deprecated or just aren't right for you. Here is my list!
