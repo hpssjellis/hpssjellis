@@ -8,6 +8,9 @@ I am in the top 25 (July 2024) of Github Open Source contributors for Canada (hp
 
 First academic paper  [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425) started during the workshop at:  [ICTP Italy Summer 2023](https://indico.ictp.it/event/10185) 
 
+[V.J. Reddi mention 5 leads in tinyML including me](https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689) https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689 which is at 
+44:49
+
 # Top QR Codes
 
 
