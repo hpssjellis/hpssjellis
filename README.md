@@ -30,12 +30,15 @@ https://github.com/hpssjellis
 
 
 
+<details closed> <summary>Click for More QR Codes for presentations</summary> 
+
+
+ 
+
 ## maker100 - Curriculum (Latest Project)
 https://github.com/hpssjellis/maker100-curriculum
 
 ![image](https://github.com/user-attachments/assets/4d4d4100-678f-4a7f-9bdc-0713e67c60c7)
-
-<details closed> <summary>Click for More QR Codes for presentations</summary> 
 .
 
 ## maker 100-eco 
@@ -118,7 +121,9 @@ With technology you start multiple projects and some of them are successful and 
 
 | Title and  LInk   | Description | Percent Complete |
 |:---|:---|:---|
-| <a name="47" href="#47">`47`</a>   []() |    .     |       0%          | 
+| <a name="47" href="#47">`49`</a>   []() |    .     |       0%          | 
+| <a name="47" href="#47">`48`</a>   []() |    .     |       0%          | 
+| <a name="47" href="#47">`47`</a>   [DeepseekR1-in-browser](https://hpssjellis.github.io/my-examples-of-transformersJS/public/index.html) |    [Janus-Pro text to image]() and [DeepseekR1 ChatBot LLM]() amazingly working in the browser by loading a single webpage with reasonably easy Javascript code using [webGPU](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) with and [TransformerJS](https://huggingface.co/docs/transformers.js/index)  and the [HuggingFace model JanusPro](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) and [Huggingface model DeepseekR1](https://hpssjellis.github.io/my-examples-of-transformersJS/public/deepseek-r1-webgpu/onnx-community/DeepSeek-R1-Distill-Qwen-1.5B-ONNX)      |       80%          | 
 | <a name="46" href="#46">`46`</a>   [maker100-curriculum](https://github.com/hpssjellis/maker100-curriculum) |  **Empowering Students in Robotics, IoT, and Machine Learning.** The Maker100 curriculum offers a hands-on approach to learning robotics, IoT, and machine learning, tailored for high school and undergraduate students. Designed to empower students to tackle real sensor, actuator technology issues on resource contrained tinyML devices, this curriculum eliminates the need for a specialist robotics instructor, as the students need to do most of the problem solving.<br><br>Key Features:<br>- **Versatile Microcontroller Use**: The curriculum is not tied to a specific microcontroller, encouraging the purchase of different microcontrollers every few years to stay current with technology.<br>- **Collaborative Learning**: First-year technology educators can learn alongside their students, fostering a collaborative and dynamic learning environment.<br>- **Focus on Problem-Solving**: The core strength of this course lies in its emphasis on technology problem-solving, equipping students with the skills to innovate and adapt. <br><br>Draft [price-list](https://hpssjellis.github.io/maker100-curriculum/price-list.html) |       80%          | 
 | <a name="45" href="#45">`45`</a>   [chatbot-learn-to-code](https://github.com/hpssjellis/chatbot-learn-to-code) |   My take on how to learn to code in an age when you can just talk to an LLM and it produces the code for you. Is that learning? We can ask an expert to do something for us, but does that have any learning value? Lets dig into possible ways to use chatBots to learn not just do the work for us. The demo webpage index is <a href="https://hpssjellis.github.io/chatbot-learn-to-code/public/index.html">here</a>     |       10%          | 
 | <a name="44" href="#44">`44`</a>   [Demo recording-js-looper/](https://hpssjellis.github.io/recording-js-looper/) | Here is the github [recording-js-looper/](https://hpssjellis.github.io/recording-js-looper/)  This is an attempt to understand the Pros and Cons of using a chatBot to computer program. You get something that works really fast, but as you start developing it and making it fit your needs I found I got lost in how it worked and only minimally learnt anything. Cocnlusion, best to use the chatbot to teach you how to do advanced work but then do the advanced work yourself. I am going to do more work in this area.   |       90%          | 
