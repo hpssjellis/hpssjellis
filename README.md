@@ -120,7 +120,7 @@ https://github.com/hpssjellis/high-school-javascript-game-dev-assignment-images
 
 
  
-# My Present (August 2024) Github Project Completion Estimates:
+# My Present (February 2025) Github Project Completion Estimates:
 #### I like to stay busy.
 
 With technology you start multiple projects and some of them are successful and others need updates or get deprecated or just aren't right for you. Here is my list!
