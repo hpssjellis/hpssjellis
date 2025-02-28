@@ -11,6 +11,14 @@ First academic paper  [TinyML4D: Scaling Embedded Machine LearningEducation in t
 [V.J. Reddi mention 5 leads in tinyML including me](https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689) https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689 which is at 
 44:49
 
+
+All my life I have enjoyed middle distance running, but by 60 I could not even jog, so I trained for a year and a half and won the Canadian National 55plus 800m male 60-64 year old age group  in Quebec City Aug 2024. [results look for me](https://canada55plusqc.ca/wp-content/uploads/2024/09/Track-Field_2024.pdf) I will not race again until I can do much better than a time of 2:43 
+
+<img src="https://github.com/user-attachments/assets/879e4f3c-c9b3-4844-bc6b-90bb59191a4d" width = 300 Alignment=center />
+
+![image](https://github.com/user-attachments/assets/879e4f3c-c9b3-4844-bc6b-90bb59191a4d)
+
+
 # Top QR Codes
 
 
