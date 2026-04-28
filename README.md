@@ -2,7 +2,7 @@
 
 ### Jeremy Ellis, ex: Rocksetta now <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">LinkedIn</a>
 
-I help to bring Tiny ML to universities in developing countires  https://tinyml.seas.harvard.edu/team and hopefully this group will publish a paper about the process later this year (2024)
+I help to bring Tiny ML to universities in developing countires  https://tinyml.seas.harvard.edu/team
 
 I am in the top 25 (July 2024) of Github Open Source contributors for Canada (hpssjellis) see website at  https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/canada.md
 
