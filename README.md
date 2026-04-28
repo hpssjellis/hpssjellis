@@ -11,16 +11,21 @@ First academic paper  [TinyML4D: Scaling Embedded Machine LearningEducation in t
 [V.J. Reddi mention 5 leads in tinyML including me](https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689) https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689 which is at 
 44:49
 
-I just published in the arXIV pre-print:  
+<hr>
 
-Paper 1 On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller https://arxiv.org/abs/2604.23012
+I just published in April 2026 in the arXIV pre-print:  
 
-Paper 2 WebSerial Vision Training for Microcontrollers: A Browser-Based Companion to On-Device CNN Training https://arxiv.org/abs/2604.22834
+Paper 1 https://arxiv.org/abs/2604.23012 On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller 
+
+Paper 2 https://arxiv.org/abs/2604.22834  WebSerial Vision Training for Microcontrollers: A Browser-Based Companion to On-Device CNN Training 
+
+Paper 2 has a live demo that works even without having a tiny ML device https://webmcu-ai.github.io/webmcu-vision-web/index.html
 
 
 
 
-.
+
+<hr>
 
 
 All my life I have enjoyed middle distance running, but by 60 I could not even jog, so I trained for a year and a half and won the Canadian National 55plus 800m male 60-64 year old age group  in Quebec City Aug 2024. [results look for me](https://canada55plusqc.ca/wp-content/uploads/2024/09/Track-Field_2024.pdf) I will not race again until I can do much better than a time of 2:43 
